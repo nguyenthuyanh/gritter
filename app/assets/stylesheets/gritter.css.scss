@@ -94,7 +94,7 @@
   background:url(asset-url('gritter.png')) no-repeat left top;
 }
 .gritter-css3 .gritter-close {
-  background:url(asset-url('gritter-close.png')) no-repeat;
+  background:asset-url('gritter-close.png') no-repeat;
 }
 
 .gritter-title {
